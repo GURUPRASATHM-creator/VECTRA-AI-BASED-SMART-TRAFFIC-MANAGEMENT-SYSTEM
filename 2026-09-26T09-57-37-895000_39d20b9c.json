@@ -1,0 +1,72 @@
+{
+  "schema_version": "1.2.0",
+  "camera_id": "39d20b9c-4250-4c14-95dc-c973df4bf641",
+  "intersection_id": "057bc1ab-18d6-45f6-9a03-7cf268652cf7",
+  "lane_group": "north",
+  "captured_at": "2026-09-26T09:57:37.895000Z",
+  "vehicle_counts": {
+    "car": 3,
+    "bus": 0,
+    "truck": 2,
+    "bike": 0,
+    "ambulance": 0
+  },
+  "avg_speed_kmh": null,
+  "queue_length_m": null,
+  "traffic_type": "MODERATE",
+  "frame_uri": "vectra-frames/39d20b9c-4250-4c14-95dc-c973df4bf641/2026-09-26T09:57:37.915396.jpg",
+  "annotated_frame_uri": "vectra-frames/39d20b9c-4250-4c14-95dc-c973df4bf641/2026-09-26T09:57:39.940276-annotated.jpg",
+  "detections": [
+    {
+      "bbox": [
+        0.07974556088447571,
+        0.14624640146891277,
+        0.3762613296508789,
+        0.6841237386067708
+      ],
+      "label": "car",
+      "confidence": 0.94
+    },
+    {
+      "bbox": [
+        0.14165012836456298,
+        -0.0006543546915054321,
+        0.5022708892822265,
+        0.40966296725802953
+      ],
+      "label": "truck",
+      "confidence": 0.92
+    },
+    {
+      "bbox": [
+        0.5922348499298096,
+        0.0010953843593597412,
+        0.9435734748840332,
+        0.5892050425211589
+      ],
+      "label": "truck",
+      "confidence": 0.87
+    },
+    {
+      "bbox": [
+        0.011307254433631897,
+        0.0002562180161476135,
+        0.1505261778831482,
+        0.12578579584757488
+      ],
+      "label": "car",
+      "confidence": 0.6
+    },
+    {
+      "bbox": [
+        0.5918729782104493,
+        0.001093149185180664,
+        0.9437348365783691,
+        0.5886268191867404
+      ],
+      "label": "car",
+      "confidence": 0.54
+    }
+  ],
+  "detected_plates": []
+}

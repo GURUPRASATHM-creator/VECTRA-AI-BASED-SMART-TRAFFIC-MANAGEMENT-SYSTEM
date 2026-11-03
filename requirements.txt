@@ -1,0 +1,18 @@
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+python-multipart==0.0.9
+pydantic==2.9.2
+pydantic-settings==2.5.2
+SQLAlchemy==2.0.35
+asyncpg==0.29.0
+redis==5.0.8
+minio==7.2.9
+Pillow==10.4.0
+python-dotenv==1.0.1
+
+-e ../contracts/python
+
+ultralytics==8.4.165
+opencv-python-headless==4.10.0.84
+numpy==1.26.4
+easyocr==1.7.2
